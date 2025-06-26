@@ -10,18 +10,18 @@ This is a basic CRUD API built using Node.js and Express.
 
 2. Start the server:
 
-nodemon index.js
+   nodemon index.js
 
 
 
-Server runs at: http://localhost:3000
+   Server runs at: http://localhost:3000
 
-API Routes
+   API Routes
 
-GET /books – Get all books
+   GET /books – Get all books
 
-POST /books – Add a new book
+   POST /books – Add a new book
 
-PUT /books/:id – Update a book by ID
+   PUT /books/:id – Update a book by ID
 
-DELETE /books/:id – Delete a book by ID
+   DELETE /books/:id – Delete a book by ID
